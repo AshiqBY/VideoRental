@@ -1,0 +1,2 @@
+# VideoRental
+Application mvc
